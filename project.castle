@@ -1,0 +1,7 @@
+---
+main: main.lua
+title: Our Little Dungeon
+owner: schazers
+primaryColor: DDDDFF
+coverImage: logo.png
+description: Make a world, challenge your friends.
