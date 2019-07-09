@@ -31,7 +31,7 @@ end
 
 -- Updating
 function love.update(dt)
-  --media.cleanup()
+  media.cleanup()
   -- Note that we only update elements that are visible to the camera. This is optional
   -- replace the map:update(dt, camera:getVisible()) with the following line to update everything
   -- map:update(dt)
